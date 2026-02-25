@@ -1,0 +1,8 @@
+order_id,customer_id,customer_name,product,category,quantity,price,order_date
+1,101,John Doe,Laptop,Electronics,1,800,2024-01-10
+2,102,Jane Smith,Phone,Electronics,2,500,2024-01-11
+3,101,John Doe,Mouse,Accessories,3,25,2024-01-15
+4,103,Michael Lee,Desk,Furniture,1,200,2024-02-01
+5,102,Jane Smith,Laptop,Electronics,1,800,2024-02-10
+6,104,Sarah Kim,Chair,Furniture,4,75,2024-02-12
+7,101,John Doe,Keyboard,Accessories,2,45,2024-02-15
